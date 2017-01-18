@@ -1,0 +1,28 @@
+.example3 .navbar-brand {
+  height: 50px;
+  color:orange;
+}
+.nav-pills li > a{
+  font-size:16px;
+  font-weight: 600;
+  text-transform: capitalize;
+  color:#404040;
+  
+}
+
+.example3 .navbar-toggle {
+  padding: 10px;
+  margin: 25px 15px 25px 0;
+}
+.welcome-img{
+  margin-top:30px;
+}
+.welcome-header{
+ // border-bottom: 2px solid #404040;
+  
+}
+.cake_gallery_title img a {
+  padding:10px;
+ 
+  margin:10px
+}
